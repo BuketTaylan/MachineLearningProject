@@ -7,8 +7,9 @@ Bu proje, Türkçe film yorumlarını analiz etmek için bir duygu analizi model
 Projeyi klonlayın:
 
 ```bash
-git clone https://github.com/your-username/Sentiment-Analysis-Model.git
-cd Sentiment-Analysis-Model
+git clone https://github.com/BuketTaylan/MakineOgrenmesi.git
+
+cd MakineOgrenmesi
 ```
 
 ## Modeli çalıştırın eğitin:
